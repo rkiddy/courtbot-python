@@ -4,7 +4,7 @@ This is an experimental reimplementation of courtbot using python. It uses the
 
 ## Development
 ### Requirements
-* python
+* python 3.7
 * A twilio account
 * PostgreSQL
 
